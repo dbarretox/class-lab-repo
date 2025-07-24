@@ -1,6 +1,6 @@
 ## Class Information
 - Name: Daniel  
-- Certification: Version Control  
+- Certification: Version Control in Coursera
 
 ## Instructions
 Please replace the placeholders with your details:
